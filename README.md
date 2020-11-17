@@ -3,15 +3,15 @@
 <h2 align="center">My socials networks</h2>
 
 <p align="center"
-  <a href="https://stackoverflow.com/users/9951542/cleanet">
+  <a href="https://stackoverflow.com/users/9951542/cleanet" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
   </a>
 
-  <a href="https://stackexchange.com/users/13074676/cleanet">
+  <a href="https://stackexchange.com/users/13074676/cleanet" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
   </a>
   
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
+  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
 </p>
