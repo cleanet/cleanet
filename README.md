@@ -19,17 +19,16 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+![](https://komarev.com/ghpvc/?username=Cleanet&Color=lightgrey)
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleanet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cleanet&show_icons=true&theme=synthwave" alt="Cleanet :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+![Cleanet's github stats](https://github-readme-stats.vercel.app/api?username=Cleanet&theme=default&show_icons=true)
 
 
 ---
