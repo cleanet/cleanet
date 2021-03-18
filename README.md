@@ -23,7 +23,7 @@
 
 <h4 align="center">Top langs :tongue:</h4>
 
-![Top Langs](https://ionicabizau.github.io/github-profile-languages/api.html?cleanet)
+[Top Langs](https://ionicabizau.github.io/github-profile-languages/api.html?cleanet)
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
