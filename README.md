@@ -23,8 +23,7 @@
 
 <h4 align="center">Top langs :tongue:</h4>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleanet)
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?cleanet" frameborder="0"></iframe>
+![Top Langs](https://ionicabizau.github.io/github-profile-languages/api.html?cleanet)
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
