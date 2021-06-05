@@ -2,7 +2,7 @@
 
 <h2 align="center">My socials networks</h2>
 
-<p align="center"
+<p align="center">
   <a href="https://stackoverflow.com/users/9951542/cleanet" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
   </a>
